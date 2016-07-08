@@ -1,0 +1,15 @@
+.hero {
+    background: url(../img/hero.jpg) no-repeat center center;
+    background-size: cover;
+    height: 300px;
+}
+
+.subscribe {
+    display: flex;
+    margin-top: 20px;
+
+    .copy,
+    .form {
+        width: 50%;
+    }
+}
